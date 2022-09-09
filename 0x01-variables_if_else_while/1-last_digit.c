@@ -9,8 +9,6 @@
  * */
 int main(void)
 {
-	int main(void)
-	{
 		int n;
 		int l;
 
@@ -32,4 +30,4 @@ int main(void)
 		}
 		return (0);
 	}
-}
+
