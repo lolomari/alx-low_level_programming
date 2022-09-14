@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * time_table - function that prints time table for 9
+ * times_table - function that prints time table for 9
  *
  */
 
-void time_table(void)
+void times_table(void)
 {
 	int x = 0; /* factor */
 	int y; /* count */
